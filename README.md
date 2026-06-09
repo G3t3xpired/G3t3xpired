@@ -1,41 +1,48 @@
 # 👋 Hey, I'm G3t3xpired
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Python+Developer;Creator+of+SilentHub;Open+Source+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Python+Developer;Game+Booting+Software+Developer;Learning+C%2B%2B;Future+Software+Engineer" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-```python
-class G3t3xpired:
-    def __init__(self):
-        self.language = "Python"
-        self.project = "SilentHub"
-        self.status = "Building cool stuff"
-        self.location = "Germany"
+I'm a hobby developer from Germany who enjoys building software and learning new technologies.
 
-    def say_hi(self):
-        return "Welcome to my GitHub Profile 👋"
-```
+* 🐍 Main language: **Python**
+* 📚 Currently learning: **C++**
+* 🎮 Working on: **SilentHub**
+* 💻 Operating System: **Linux**
+* 🔍 Interested in software development and game-related tools
+* 🎯 Goal: Turn my passion for programming into a professional career
 
-* 🐍 Main Language: **Python**
-* 🔭 Currently working on **SilentHub**
-* 🌱 Learning new technologies every day
-* ⚡ Passionate about automation, tools and software development
+---
+
+## 🏆 Current Project
+
+### SilentHub
+
+SilentHub is a game booting and management application designed to provide a simple and efficient way to launch and organize games.
+
+#### Features
+
+* 🚀 Fast game launching
+* 📂 Game organization
+* ⚙️ Customizable settings
+* 🔄 Continuous development and improvements
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,linux,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=G3t3xpired&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -47,22 +54,17 @@ class G3t3xpired:
 
 ---
 
-## 🏆 Featured Project
+## 🎯 Goals for 2026
 
-### SilentHub
-
-> A powerful project developed in Python.
-
-Features:
-
-* ⚡ Fast & Lightweight
-* 🔒 Secure
-* 🛠️ Easy to use
-* 🚀 Constantly improving
+* Improve my Python skills
+* Learn modern C++
+* Contribute to open-source projects
+* Expand SilentHub with new features
+* Build a career in software development
 
 ---
 
-## 📈 Activity Graph
+## 📈 Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=G3t3xpired&theme=tokyo-night" />
@@ -70,14 +72,6 @@ Features:
 
 ---
 
-## 👀 Profile Views
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=G3t3xpired&color=blueviolet&style=for-the-badge" />
-</p>
-
----
-
-<p align="center">
-  <i>"Code. Create. Improve."</i>
+  <b>Code today. Build tomorrow.</b>
 </p>
