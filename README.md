@@ -1,10 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=180&section=header&text=G3t3xpired&fontSize=62&fontColor=ffffff&fontAlignY=50&desc=student%20%C2%B7%20code%20poet%20%C2%B7%20nachtcoder&descSize=16&descAlignY=72&descColor=c4b5fd&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=180&section=header&text=G3t3xpired&fontSize=62&fontColor=ffffff&fontAlignY=50&desc=student%20%C2%B7%20C%2B%2B%20%C2%B7%20Python%20%C2%B7%20Java&descSize=16&descAlignY=72&descColor=c4b5fd&animation=fadeIn"/>
 
 <div align="center">
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=9D4EDD&center=true&vCenter=true&width=560&lines=C%2B%2B+%2F+Python+%2F+Java;.NET+8+%2F+Git+%2F+Visual+Studio;student+with+a+poetic+mindset;Zeilen%2C+die+bleiben%2C+bevor+sie+vergehen)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=9D4EDD&center=true&vCenter=true&width=560&lines=C%2B%2B+%2F+Python+%2F+Java;.NET+8+%2F+Git+%2F+Visual+Studio;student+from+Germany;clean+code.+no+bloat.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -26,11 +26,8 @@
 
 <br/>
 
-Student & Nachtcoder aus **Deutschland** – unterwegs in C++, Python und Java.  
-Ich schreibe Code, der funktioniert, und Zeilen, die bleiben.
-
-Kein Overengineering. Kein Lärm.  
-Einfach sauber, durchdacht und mit einem Hauch Poesie.
+Student aus **Deutschland** – C++, Python, Java.  
+Ich schreibe Code, der funktioniert. Sauber. Direkt. Ohne Umwege.
 
 <br/>
 
@@ -110,22 +107,7 @@ Einfach sauber, durchdacht und mit einem Hauch Poesie.
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=3b0764&height=40&text=POESIE&fontSize=16&fontColor=e9d5ff&fontAlignY=65"/></div>
-
-<br/>
-
-<div align="center">
-
-*„Zwischen Compilern und sternenklaren Nächten –*  
-*Zeilen, die bleiben, bevor sie vergehen.“*
-
-💜 ~ G3t3xpired
-
-</div>
-
-<br/>
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2&width=100%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=3b0764&height=40&text=CONNECT&fontSize=16&fontColor=e9d5ff&fontAlignY=65"/></div>
 
 <br/>
 
@@ -139,7 +121,7 @@ Einfach sauber, durchdacht und mit einem Hauch Poesie.
 
 <div align="center">
 
-*"Code schreiben, der sich wie Poesie anfühlt."*
+*"Clean code. No bloat. Ship it."*
 
 </div>
 
