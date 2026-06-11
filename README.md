@@ -1,8 +1,6 @@
-# 👋 Hey, I'm G3t3xpired
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=180&section=header&text=SKORBJEN&fontSize=62&fontColor=ffffff&fontAlignY=50&desc=developer%20%C2%B7%20VRChat%20tooling%20%C2%B7%20software%20builder&descSize=16&descAlignY=72&descColor=c4b5fd&animation=fadeIn"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Python+Developer;Game+Booting+Software+Developer;Learning+C%2B%2B;Future+Software+Engineer" />
-</p>
+<div align="center">
 
 ---
 
