@@ -35,7 +35,7 @@ SilentHub is a game booting and management application designed to provide a sim
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,windows,vscode" />
 </p>
 
 ---
