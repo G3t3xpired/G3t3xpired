@@ -6,8 +6,6 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=9D4EDD&center=true&vCenter=true&width=560&lines=building+tools+for+VRChat+%F0%9F%90%BE;C%23+%2F+WPF+%2F+.NET+8;owner+of+Parano!a+OSC;ship+it.+improve+it.+repeat.;software+that+just+works.)](https://git.io/typing-svg)
-
 <br/>
 
 ![](https://img.shields.io/badge/STATUS-OPERATIONAL-9D4EDD?style=flat-square&labelColor=0d0d0d)
