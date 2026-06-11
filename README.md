@@ -29,7 +29,7 @@
 <br/>
 
 Developer from **Germany** — I build software for VRChat and the people who live there.
-Owner of **Parano!a**, a suite of tools that make your VRChat experience actually say something.
+Owner of **SilentHub!a**, a suite of tools that make your VRChat experience actually say something.
 
 I care about one thing: software that works exactly the way it should.
 No bloat. No filler. Just clean code, sharp UIs, and things worth shipping.
@@ -40,7 +40,7 @@ No bloat. No filler. Just clean code, sharp UIs, and things worth shipping.
 
 | | |
 |---|---|
-| 🚀 **Now shipping** | Parano!a OSC — always iterating |
+| 🚀 **Now shipping** | SilentHub!a — always iterating |
 | 🔭 **Exploring** | WebView2 integrations, advanced OSC tooling |
 | 🎮 **Lives in** | VRChat |
 | 🌍 **Based in** | Germany |
@@ -61,28 +61,8 @@ No bloat. No filler. Just clean code, sharp UIs, and things worth shipping.
 
 <div align="center">
 
-### 🐱 Parano!a OSC
 
-**The VRChat chatbox tool — built for people who actually live in VRChat.**
 
-</div>
-
-Sends real-time data directly to your VRChat chatbox via OSC. No third-party overhead, no clutter — just what you actually want displayed.
-
-<br/>
-
-<div align="center">
-
-| Feature | Details |
-|---|---|
-| 🖥️ **System Stats** | CPU, RAM, GPU — live in your chatbox |
-| 🎵 **Media Info** | Now playing, track name, artist |
-| 💤 **AFK Status** | Auto-detect and display AFK state |
-| 🔄 **Rotating Messages** | Cycle custom messages on a timer |
-| 📡 **OSC Native** | Direct protocol integration, no middleware |
-| ☁️ **Cloud Hosted** | Deployed & served via Cloudflare |
-
-</div>
 
 <br/>
 
@@ -175,8 +155,7 @@ Sends real-time data directly to your VRChat chatbox via OSC. No third-party ove
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Parano!a_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/paranoiaosc)
-[![GitHub](https://img.shields.io/badge/GitHub-skorbjen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skorbjen)
+[![GitHub](https://img.shields.io/badge/GitHub-skorbjen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/G3t3xpired)
 
 </div>
 
