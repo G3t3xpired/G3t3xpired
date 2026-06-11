@@ -35,7 +35,7 @@ Ich schreibe Code, der funktioniert. Sauber. Direkt. Ohne Umwege.
 
 | | |
 |---|---|
-| 🚀 **Aktuell** | Uni-Projekte in C++ & Python |
+| 🚀 **Aktuell** | Projekte C++ & Python |
 | 🌱 **Lerne** | Java & .NET 8 |
 | 🧠 **Stack** | C++ · Python · Java · .NET 8 |
 | 🛠️ **Tools** | GitHub · Visual Studio · Git |
