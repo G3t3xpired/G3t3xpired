@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=bf5eff:9b59b6&height=180&section=header&text=G3t3xpired&fontSize=62&fontColor=ffffff&fontAlignY=50&desc=student%20%C2%B7%20code%20poet%20%C2%B7%20nachtcoder&descSize=16&descAlignY=72&descColor=e9d5ff&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=180&section=header&text=G3t3xpired&fontSize=62&fontColor=ffffff&fontAlignY=50&desc=student%20%C2%B7%20code%20poet%20%C2%B7%20nachtcoder&descSize=16&descAlignY=72&descColor=e9d5ff&animation=twinkling"/>
 
 <div align="center">
 
@@ -9,7 +9,7 @@
 <br/>
 
 ![](https://img.shields.io/badge/STATUS-CODING-9D4EDD?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/LOCATION-GERMANY-bf5eff?style=flat-square&labelColor=0d0d0d)
+![](https://img.shields.io/badge/LOCATION-GERMANY-7c3aed?style=flat-square&labelColor=0d0d0d)
 ![](https://img.shields.io/badge/FOCUS-C%2B%2B_%2F_Python-6d28d9?style=flat-square&labelColor=0d0d0d)
 [![Followers](https://img.shields.io/github/followers/G3t3xpired?style=flat-square&color=9D4EDD&labelColor=0d0d0d&label=FOLLOWERS)](https://github.com/G3t3xpired)
 ![](https://komarev.com/ghpvc/?username=G3t3xpired&style=flat-square&color=9D4EDD&label=PROFILE+VIEWS&labelColor=0d0d0d)
@@ -18,7 +18,7 @@
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=bf5eff&height=2&width=100%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2&width=100%"/></div>
 
 <br/>
 
@@ -48,7 +48,7 @@ Einfach sauber, durchdacht und mit einem Hauch Poesie.
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=bf5eff&height=2&width=100%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2&width=100%"/></div>
 
 <br/>
 
@@ -78,7 +78,7 @@ Einfach sauber, durchdacht und mit einem Hauch Poesie.
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=bf5eff&height=2&width=100%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2&width=100%"/></div>
 
 <br/>
 
@@ -92,17 +92,17 @@ Einfach sauber, durchdacht und mit einem Hauch Poesie.
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=G3t3xpired&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=bf5eff&fire=9D4EDD&currStreakLabel=e9d5ff&sideLabels=e9d5ff&dates=6d28d9"/>
+<img src="https://streak-stats.demolab.com?user=G3t3xpired&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=7c3aed&fire=9D4EDD&currStreakLabel=e9d5ff&sideLabels=e9d5ff&dates=6d28d9"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=G3t3xpired&bg_color=0d0d0d&color=e9d5ff&line=bf5eff&point=9D4EDD&area=true&area_color=3b0764&hide_border=true&radius=6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=G3t3xpired&bg_color=0d0d0d&color=e9d5ff&line=7c3aed&point=9D4EDD&area=true&area_color=3b0764&hide_border=true&radius=6"/>
 
 </div>
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=bf5eff&height=2&width=100%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2&width=100%"/></div>
 
 <br/>
 
@@ -121,7 +121,7 @@ Einfach sauber, durchdacht und mit einem Hauch Poesie.
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=bf5eff&height=2&width=100%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2&width=100%"/></div>
 
 <br/>
 
@@ -133,4 +133,4 @@ Einfach sauber, durchdacht und mit einem Hauch Poesie.
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=bf5eff:9b59b6&height=120&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9b59b6&height=120&section=footer&animation=twinkling"/>
