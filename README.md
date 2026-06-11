@@ -40,7 +40,7 @@ No bloat. No filler. Just clean code, sharp UIs, and things worth shipping.
 
 | | |
 |---|---|
-| 🚀 **Now shipping** | SilentHub!a — always iterating |
+| 🚀 **Now shipping** | SilentHub — always iterating |
 | 🔭 **Exploring** | WebView2 integrations, advanced OSC tooling |
 | 🎮 **Lives in** | VRChat |
 | 🌍 **Based in** | Germany |
@@ -155,7 +155,7 @@ No bloat. No filler. Just clean code, sharp UIs, and things worth shipping.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-skorbjen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/G3t3xpired)
+[![GitHub](https://img.shields.io/badge/GitHub-g3t3xpired-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/G3t3xpired)
 
 </div>
 
