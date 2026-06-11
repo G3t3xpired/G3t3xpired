@@ -1,36 +1,56 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=180&section=header&text=G3T3XPIRED&fontSize=62&fontColor=ffffff&fontAlignY=50&desc=developer%20%C2%B7%20VRChat%20tooling%20%C2%B7%20software%20builder&descSize=16&descAlignY=72&descColor=c4b5fd&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=bf5eff:9b59b6&height=180&section=header&text=G3t3xpired&fontSize=62&fontColor=ffffff&fontAlignY=50&desc=student%20%C2%B7%20code%20poet%20%C2%B7%20nachtcoder&descSize=16&descAlignY=72&descColor=e9d5ff&animation=twinkling"/>
 
 <div align="center">
 
+<br/>
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=9D4EDD&center=true&vCenter=true&width=560&lines=C%2B%2B+%2F+Python+%2F+Java;.NET+8+%2F+Git+%2F+Visual+Studio;student+with+a+poetic+mindset;Zeilen%2C+die+bleiben%2C+bevor+sie+vergehen)](https://git.io/typing-svg)
 
-## 🚀 About Me
+<br/>
 
-I'm a hobby developer from Germany who enjoys building software and learning new technologies.
+![](https://img.shields.io/badge/STATUS-CODING-9D4EDD?style=flat-square&labelColor=0d0d0d)
+![](https://img.shields.io/badge/LOCATION-GERMANY-bf5eff?style=flat-square&labelColor=0d0d0d)
+![](https://img.shields.io/badge/FOCUS-C%2B%2B_%2F_Python-6d28d9?style=flat-square&labelColor=0d0d0d)
+[![Followers](https://img.shields.io/github/followers/G3t3xpired?style=flat-square&color=9D4EDD&labelColor=0d0d0d&label=FOLLOWERS)](https://github.com/G3t3xpired)
+![](https://komarev.com/ghpvc/?username=G3t3xpired&style=flat-square&color=9D4EDD&label=PROFILE+VIEWS&labelColor=0d0d0d)
 
-* 🐍 Main language: **Python**
-* 📚 Currently learning: **C++**
-* 🎮 Working on: **SilentHub**
-* 💻 Operating System: **WINDOWS**
-* 🔍 Interested in software development and game-related tools
-* 🎯 Goal: Turn my passion for programming into a professional career
+</div>
 
----
+<br/>
 
-## 🏆 Current Project
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=bf5eff&height=2&width=100%"/></div>
 
-### SilentHub
+<br/>
 
-SilentHub is a game booting and management application designed to provide a simple and efficient way to launch and organize games.
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=3b0764&height=40&text=SYSTEM+BIO&fontSize=16&fontColor=e9d5ff&fontAlignY=65"/></div>
 
-#### Features
+<br/>
 
-* 🚀 Fast game launching
-* 📂 Game organization
-* ⚙️ Customizable settings
-* 🔄 Continuous development and improvements
+Student & Nachtcoder aus **Deutschland** – unterwegs in C++, Python und Java.  
+Ich schreibe Code, der funktioniert, und Zeilen, die bleiben.  
 
+Nicht laut. Nicht überladen.  
+Einfach sauber, durchdacht und mit einem Hauch Poesie.
+
+<br/>
+
+<div align="center">
+
+| | |
+|---|---|
+| 🚀 **Aktuell** | Uni-Projekte in C++ & Python |
+| 🌱 **Lerne** | Java & .NET 8 |
+| 🧠 **Stack** | C++ · Python · Java · .NET 8 |
+| 🛠️ **Tools** | GitHub · Visual Studio · Git |
+| 💬 **Talk to me about** | Speicherverwaltung, Python-Skripte, `git push -f` |
+
+</div>
+
+<br/>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=bf5eff&height=2&width=100%"/></div>
+
+<br/>
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=3b0764&height=40&text=TECH+STACK&fontSize=16&fontColor=e9d5ff&fontAlignY=65"/></div>
 
@@ -40,10 +60,9 @@ SilentHub is a game booting and management application designed to provide a sim
 
 **Languages**
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 **Frameworks & Runtimes**
 
@@ -51,51 +70,67 @@ SilentHub is a game booting and management application designed to provide a sim
 
 **Infrastructure & Tools**
 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 </div>
 
----
+<br/>
 
-## 📊 GitHub Stats
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=bf5eff&height=2&width=100%"/></div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=G3t3xpired&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=G3t3xpired&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=3b0764&height=40&text=GITHUB+STATS&fontSize=16&fontColor=e9d5ff&fontAlignY=65"/></div>
 
----
-
-## 🎯 Goals for 2026
-
-* Improve my Python skills
-* Learn modern C++
-* Contribute to open-source projects
-* Expand SilentHub with new features
-* Build a career in software development
-
----
-
-## 📈 Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=G3t3xpired&theme=tokyo-night" />
-</p>
-
----
+<br/>
 
 <div align="center">
 
-*"Ship it. Improve it. Repeat."*
+<img src="https://github-profile-trophy.vercel.app/?username=G3t3xpired&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=G3t3xpired&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=bf5eff&fire=9D4EDD&currStreakLabel=e9d5ff&sideLabels=e9d5ff&dates=6d28d9"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=G3t3xpired&bg_color=0d0d0d&color=e9d5ff&line=bf5eff&point=9D4EDD&area=true&area_color=3b0764&hide_border=true&radius=6"/>
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=footer"/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=bf5eff&height=2&width=100%"/></div>
+
+<br/>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=3b0764&height=40&text=POESIE&fontSize=16&fontColor=e9d5ff&fontAlignY=65"/></div>
+
+<br/>
+
+<div align="center">
+
+*„Zwischen Compilern und sternenklaren Nächten –*  
+*Zeilen, die bleiben, bevor sie vergehen.“*
+
+💜 ~ G3t3xpired
+
+</div>
+
+<br/>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=bf5eff&height=2&width=100%"/></div>
+
+<br/>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-G3t3xpired-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/G3t3xpired)
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=bf5eff:9b59b6&height=120&section=footer&animation=twinkling"/>
