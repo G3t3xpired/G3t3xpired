@@ -73,5 +73,12 @@ SilentHub is a game booting and management application designed to provide a sim
 <p align="center">
   <b>Code today. Build tomorrow.</b>
 </p>
+<div align="center">
+
+*"Ship it. Improve it. Repeat."*
+
+</div>
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=footer"/>
