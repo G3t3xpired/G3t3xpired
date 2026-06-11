@@ -26,7 +26,7 @@
 
 <br/>
 
-Student aus **Deutschland** – C++, Python, Java.  
+aus **Deutschland** – C++, Python, Java.  
 Ich schreibe Code, der funktioniert. Sauber. Direkt. Ohne Umwege.
 
 <br/>
