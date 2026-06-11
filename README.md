@@ -11,7 +11,7 @@ I'm a hobby developer from Germany who enjoys building software and learning new
 * 🐍 Main language: **Python**
 * 📚 Currently learning: **C++**
 * 🎮 Working on: **SilentHub**
-* 💻 Operating System: **Linux**
+* 💻 Operating System: **WINDOWS**
 * 🔍 Interested in software development and game-related tools
 * 🎯 Goal: Turn my passion for programming into a professional career
 
