@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=180&section=header&text=G3t3xpired&fontSize=62&fontColor=ffffff&fontAlignY=50&desc=student%20%C2%B7%20code%20poet%20%C2%B7%20nachtcoder&descSize=16&descAlignY=72&descColor=e9d5ff&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=180&section=header&text=G3t3xpired&fontSize=62&fontColor=ffffff&fontAlignY=50&desc=student%20%C2%B7%20code%20poet%20%C2%B7%20nachtcoder&descSize=16&descAlignY=72&descColor=c4b5fd&animation=fadeIn"/>
 
 <div align="center">
 
@@ -27,9 +27,9 @@
 <br/>
 
 Student & Nachtcoder aus **Deutschland** – unterwegs in C++, Python und Java.  
-Ich schreibe Code, der funktioniert, und Zeilen, die bleiben.  
+Ich schreibe Code, der funktioniert, und Zeilen, die bleiben.
 
-Nicht laut. Nicht überladen.  
+Kein Overengineering. Kein Lärm.  
 Einfach sauber, durchdacht und mit einem Hauch Poesie.
 
 <br/>
@@ -92,11 +92,15 @@ Einfach sauber, durchdacht und mit einem Hauch Poesie.
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=G3t3xpired&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=7c3aed&fire=9D4EDD&currStreakLabel=e9d5ff&sideLabels=e9d5ff&dates=6d28d9"/>
+<img src="https://streak-stats.demolab.com?user=G3t3xpired&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=7c3aed&fire=9D4EDD&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=6d28d9"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=G3t3xpired&bg_color=0d0d0d&color=e9d5ff&line=7c3aed&point=9D4EDD&area=true&area_color=3b0764&hide_border=true&radius=6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=G3t3xpired&bg_color=0d0d0d&color=c4b5fd&line=7c3aed&point=9D4EDD&area=true&area_color=3b0764&hide_border=true&radius=6"/>
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/7c3aed/G3t3xpired" alt="Contribution Chart"/>
 
 </div>
 
@@ -133,4 +137,12 @@ Einfach sauber, durchdacht und mit einem Hauch Poesie.
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9b59b6&height=120&section=footer&animation=twinkling"/>
+<div align="center">
+
+*"Code schreiben, der sich wie Poesie anfühlt."*
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=footer"/>
