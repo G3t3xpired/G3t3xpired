@@ -1,16 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=180&section=header&text=G3t3xpired&fontSize=62&fontColor=ffffff&fontAlignY=50&desc=student%20%C2%B7%20C%2B%2B%20%C2%B7%20Python%20%C2%B7%20Java&descSize=16&descAlignY=72&descColor=c4b5fd&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=180&section=header&text=G3t3xpired&fontSize=62&fontColor=ffffff&fontAlignY=50&desc=C%23%20%C2%B7%20Python%20%C2%B7%20Java&descSize=16&descAlignY=72&descColor=c4b5fd&animation=fadeIn"/>
 
 <div align="center">
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=9D4EDD&center=true&vCenter=true&width=560&lines=C%2B%2B+%2F+Python+%2F+Java;.NET+8+%2F+Git+%2F+Visual+Studio;student+from+Germany;clean+code.+no+bloat.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=9D4EDD&center=true&vCenter=true&width=560&lines=C%23+%2F+Python+%2F+Java;.NET+8+%2F+Git+%2F+Visual+Studio;clean+code.+no+bloat.)](https://git.io/typing-svg)
 
 <br/>
 
 ![](https://img.shields.io/badge/STATUS-CODING-9D4EDD?style=flat-square&labelColor=0d0d0d)
 ![](https://img.shields.io/badge/LOCATION-GERMANY-7c3aed?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/FOCUS-C%2B%2B_%2F_Python-6d28d9?style=flat-square&labelColor=0d0d0d)
+![](https://img.shields.io/badge/FOCUS-C%23_%2F_Python-6d28d9?style=flat-square&labelColor=0d0d0d)
 [![Followers](https://img.shields.io/github/followers/G3t3xpired?style=flat-square&color=9D4EDD&labelColor=0d0d0d&label=FOLLOWERS)](https://github.com/G3t3xpired)
 ![](https://komarev.com/ghpvc/?username=G3t3xpired&style=flat-square&color=9D4EDD&label=PROFILE+VIEWS&labelColor=0d0d0d)
 
@@ -26,7 +26,7 @@
 
 <br/>
 
-aus **Deutschland** – C++, Python, Java.  
+aus **Deutschland** – C#, Python, Java.  
 Ich schreibe Code, der funktioniert. Sauber. Direkt. Ohne Umwege.
 
 <br/>
@@ -35,9 +35,9 @@ Ich schreibe Code, der funktioniert. Sauber. Direkt. Ohne Umwege.
 
 | | |
 |---|---|
-| 🚀 **Aktuell** | Projekte C++ & Python |
+| 🚀 **Aktuell** | Projekte C# & Python |
 | 🌱 **Lerne** | Java & .NET 8 |
-| 🧠 **Stack** | C++ · Python · Java · .NET 8 |
+| 🧠 **Stack** | C# · Python · Java · .NET 8 |
 | 🛠️ **Tools** | GitHub · Visual Studio · Git |
 | 💬 **Talk to me about** | Speicherverwaltung, Python-Skripte, `git push -f` |
 
@@ -57,7 +57,7 @@ Ich schreibe Code, der funktioniert. Sauber. Direkt. Ohne Umwege.
 
 **Languages**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
