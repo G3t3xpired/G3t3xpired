@@ -114,6 +114,7 @@ Ich schreibe Code, der funktioniert. Sauber. Direkt. Ohne Umwege.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-G3t3xpired-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/G3t3xpired)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H7X621CPBP)
 
 </div>
 
